@@ -1,3 +1,3 @@
 # Smartwatch
 Atmega328p driven Smartwatch with Bluetooth connection
-![logo](C:\Users\User\Desktop\Smartwatch-master\logo.jpg)
+![](https://github.com/anoopcc99/Smartwatch/blob/master/images/logo.jpg?raw=true)
