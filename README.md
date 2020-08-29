@@ -4,6 +4,9 @@
 ### Features
 ![](https://github.com/anoopcc99/Smartwatch/blob/master/images/logo3.jpg?raw=true)
 ![](https://github.com/anoopcc99/Smartwatch/blob/master/images/date2.jpg?raw=true)
+![](https://github.com/anoopcc99/Smartwatch/blob/master/images/not3.jpg?raw=true)
+![](https://github.com/anoopcc99/Smartwatch/blob/master/images/menu3.jpg?raw=true)
+![](https://github.com/anoopcc99/Smartwatch/blob/master/images/menu31.jpg?raw=true)
 - Temperature Display
 - Whatsapp Notification (Bluetooth)
 - Battery level Indication
