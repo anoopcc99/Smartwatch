@@ -18,4 +18,4 @@
 
 ## Method
 ### Circuit Schematic
-![](https://github.com/anoopcc99/Smartwatch/blob/master/Schematic_and_Code/schem.jpg?raw=true)
+![](https://https://github.com/anoopcc99/Smartwatch/blob/master/Schematic%20and%20Code/schem.jpg?raw=true)
