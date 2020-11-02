@@ -22,3 +22,6 @@
 
 ### PCB Design & Layout
 ![](https://github.com/anoopcc99/Smartwatch/blob/master/images/Layout_both.jpg)
+
+### Code
+[](https://github.com/anoopcc99/Smartwatch/blob/master/Schematic%20and%20Code/final_own.ino)
