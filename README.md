@@ -2,7 +2,7 @@
 ## Atmega328p driven Smartwatch with Bluetooth connection
 ### This is a project driven by microcontroller Atmega328p, DS3231 RTC IC, HC-06 Bluetooth, 128x64 OLED display, buzzer...etc
 
-![](https://github.com/anoopcc99/Smartwatch/blob/master/images/Sample.mkv?raw=true)
+![](https://github.com/anoopcc99/Smartwatch/blob/master/images/Sample.mkv)
 
 ![](https://github.com/anoopcc99/Smartwatch/blob/master/images/logo3.jpg?raw=true)
 ![](https://github.com/anoopcc99/Smartwatch/blob/master/images/date2.jpg?raw=true)
