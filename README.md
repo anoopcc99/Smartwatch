@@ -25,6 +25,7 @@
 ![](https://github.com/anoopcc99/Smartwatch/blob/master/images/Layout_both.jpg)
 
 ### Code
+![](https://github.com/anoopcc99/Smartwatch/blob/master/images/LOGIC.jpg)
 ```
 static const unsigned char PROGMEM  LOGO_WATCHEN[] =
 {/* 0X00,0X01,0X80,0X00,0X18,0X00, */   
